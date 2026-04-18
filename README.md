@@ -50,3 +50,18 @@ mobile-app-WebTechCA2/
 ```bash
 git clone https://github.com/anushka-sharma2/mobile-app-WebTechCA2.git
 cd mobile-app-WebTechCA2
+```
+### 3️⃣ Install Dependencies
+```bash
+flutter pub get
+```
+### 4️⃣ Run the Application
+
+For mobile / desktop:
+```bash
+flutter run
+```
+For web:
+```bash
+flutter run -d chrome
+```
