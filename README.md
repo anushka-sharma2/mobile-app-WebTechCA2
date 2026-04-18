@@ -1,17 +1,89 @@
-# flutter_application_2
+# 📱 Mobile App – Web Tech CA-2
 
-A new Flutter project.
+A Flutter-based mobile application developed as part of **Web Technology Continuous Assessment – 2 (CA-2)**.
 
-## Getting Started
+This project demonstrates the use of **Flutter framework** for building cross-platform applications that run on **Android, iOS, Web, Windows, macOS, and Linux** from a single codebase.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- **Framework:** Flutter
+- **Language:** Dart
+- **Platforms Supported:**
+  - Android
+  - iOS
+  - Web
+  - Windows
+  - macOS
+  - Linux
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📂 Project Structure
+mobile-app-WebTechCA2/
+│
+├── lib/ # Main application source code
+├── android/ # Android platform files
+├── ios/ # iOS platform files
+├── web/ # Web platform files
+├── windows/ # Windows platform files
+├── macos/ # macOS platform files
+├── linux/ # Linux platform files
+├── test/ # Unit and widget tests
+│
+├── pubspec.yaml # Project dependencies
+├── pubspec.lock # Locked dependency versions
+├── analysis_options.yaml
+├── .gitignore
+└── README.md
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Prerequisites
+- Flutter SDK installed  
+- Android Studio / VS Code  
+- Emulator or physical device  
+
+Check Flutter installation:
+```bash
+flutter doctor
+2️⃣ Clone the Repository
+git clone https://github.com/anushka-sharma2/mobile-app-WebTechCA2.git
+cd mobile-app-WebTechCA2
+3️⃣ Install Dependencies
+flutter pub get
+4️⃣ Run the Application
+flutter run
+
+For web:
+
+flutter run -d chrome
+🎯 Features
+Cross-platform Flutter application
+Clean and structured project layout
+Ready for mobile and web deployment
+Easily extensible for future features
+👩‍💻 Author
+
+Anushka Sharma
+B.Tech CSE
+KIET Group of Institutions
+
+GitHub: https://github.com/anushka-sharma2
+📄 License
+
+This project is created for academic purposes under Web Technology CA-2.
+
+
+---
+
+## ✅ After Pasting README
+
+Run these commands:
+```bash
+git add README.md
+git commit -m "Updated README with project details"
+git push
