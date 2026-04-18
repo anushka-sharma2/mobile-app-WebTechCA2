@@ -65,3 +65,8 @@ For web:
 ```bash
 flutter run -d chrome
 ```
+### ✨ Features
+1. Cross-platform Flutter application
+2. Clean and structured project layout
+3. Supports mobile, web, and desktop platforms
+4. Easily extendable for future features
