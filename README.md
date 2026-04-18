@@ -1,4 +1,4 @@
-# 📱 Mobile App – Web Tech CA-2
+# 📱 Mobile App 
 
 A Flutter-based mobile application developed as part of **Web Technology Continuous Assessment – 2 (CA-2)**.
 
@@ -38,7 +38,6 @@ mobile-app-WebTechCA2/
 ├── .gitignore
 └── README.md
 
----
 
 ## 🚀 Getting Started
 
@@ -47,43 +46,7 @@ mobile-app-WebTechCA2/
 - Android Studio / VS Code  
 - Emulator or physical device  
 
-Check Flutter installation:
-```bash
-flutter doctor
 ### 2️⃣ Clone the Repository
+```bash
 git clone https://github.com/anushka-sharma2/mobile-app-WebTechCA2.git
 cd mobile-app-WebTechCA2
-### 3️⃣ Install Dependencies
-flutter pub get
-### 4️⃣ Run the Application
-flutter run
-
-For web:
-
-flutter run -d chrome
-### 🎯 Features
-Cross-platform Flutter application
-Clean and structured project layout
-Ready for mobile and web deployment
-Easily extensible for future features
-### 👩‍💻 Author
-
-Anushka Sharma
-B.Tech CSE
-KIET Group of Institutions
-
-GitHub: https://github.com/anushka-sharma2
-📄 License
-
-This project is created for academic purposes under Web Technology CA-2.
-
-
----
-
-## ✅ After Pasting README
-
-Run these commands:
-```bash
-git add README.md
-git commit -m "Updated README with project details"
-git push
