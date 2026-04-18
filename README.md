@@ -50,23 +50,23 @@ mobile-app-WebTechCA2/
 Check Flutter installation:
 ```bash
 flutter doctor
-2️⃣ Clone the Repository
+### 2️⃣ Clone the Repository
 git clone https://github.com/anushka-sharma2/mobile-app-WebTechCA2.git
 cd mobile-app-WebTechCA2
-3️⃣ Install Dependencies
+### 3️⃣ Install Dependencies
 flutter pub get
-4️⃣ Run the Application
+### 4️⃣ Run the Application
 flutter run
 
 For web:
 
 flutter run -d chrome
-🎯 Features
+### 🎯 Features
 Cross-platform Flutter application
 Clean and structured project layout
 Ready for mobile and web deployment
 Easily extensible for future features
-👩‍💻 Author
+### 👩‍💻 Author
 
 Anushka Sharma
 B.Tech CSE
