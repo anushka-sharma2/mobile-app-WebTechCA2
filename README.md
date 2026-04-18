@@ -21,6 +21,7 @@ This project demonstrates the use of **Flutter framework** for building cross-pl
 ---
 
 ## 📂 Project Structure
+```
 mobile-app-WebTechCA2/
 │
 ├── lib/ # Main application source code
@@ -37,7 +38,7 @@ mobile-app-WebTechCA2/
 ├── analysis_options.yaml
 ├── .gitignore
 └── README.md
-
+```
 
 ## 🚀 Getting Started
 
